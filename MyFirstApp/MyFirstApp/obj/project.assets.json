@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vikeo\\Documents\\GitHub\\HelloWorld\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\Vikeo\\Documents\\GitHub\\HelloWorld\\MyFirstApp\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
       "projectName": "MyFirstApp",
-      "projectPath": "C:\\Users\\Vikeo\\Documents\\GitHub\\HelloWorld\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+      "projectPath": "C:\\Users\\Vikeo\\Documents\\GitHub\\HelloWorld\\MyFirstApp\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
       "packagesPath": "C:\\Users\\Vikeo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vikeo\\Documents\\GitHub\\HelloWorld\\MyFirstApp\\MyFirstApp\\obj\\",
+      "outputPath": "C:\\Users\\Vikeo\\Documents\\GitHub\\HelloWorld\\MyFirstApp\\MyFirstApp\\MyFirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vikeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
